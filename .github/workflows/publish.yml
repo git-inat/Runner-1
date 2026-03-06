@@ -2,7 +2,7 @@ name: Publication Web
 
 on:
   push:
-    branches: [ LABOS ]
+    branches: [ labos ]
 
 jobs:
   deploy:
